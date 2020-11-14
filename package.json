@@ -1,0 +1,9 @@
+{
+	"name": "@chinchilla-software/amcharts4",
+	"private": false,
+	"version": "4.9.17",
+	"description": "Condensed version of amcharts 4",
+	"repository": "https://github.com/Chinchilla-Software-Com/amcharts",
+	"dependencies": {
+	}
+}
